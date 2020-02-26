@@ -1,8 +1,4 @@
 runtime: nodejs10
 
 env_variables:
-<<<<<<< HEAD
   CLOUD_INSTANCE: atomic-key-265818:us-central1:first-instance
-=======
-  CLOUD_INSTANCE: <atomic-key-265818:us-central1:first-instance>
->>>>>>> dd32a0d2ddad1a2fe5ce4342f5c3d02f625cc44b
